@@ -1,2 +1,2 @@
 # ITMD-361-Lab-01
-This folder contains my 1st lab assignment. 
+This contains my 1st lab assignment. 
